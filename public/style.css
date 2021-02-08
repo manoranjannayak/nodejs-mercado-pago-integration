@@ -1,0 +1,35 @@
+.pay-address, .pay-card-details{
+  border: 2px dotted #000000;
+  width: 100%;
+  padding: 50px;
+}
+
+.pay-address h4, .pay-card-details h4{
+  text-align: left;
+}
+
+.pay-address label, .pay-card-details label{
+  width: 30%;
+}
+
+.pay-address input, .pay-card-details input{
+  width: 65%;
+}
+
+.sec-add-con{
+  float: left;
+  margin: 50px;
+}
+
+.sec-card-con{
+  float: right;
+  margin: 50px;
+}
+body{
+  max-width: 100%;
+    overflow-x: hidden;
+}
+
+h3{
+  text-align: center;
+}
